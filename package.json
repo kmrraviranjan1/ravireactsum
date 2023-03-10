@@ -4,6 +4,7 @@
   "description": "react sum and first npm package for learning",
   "type": "module",
   "main": "src/index.js",
+  "repository": "kmrraviranjan1/ravireactsum",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
